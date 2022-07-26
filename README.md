@@ -24,7 +24,7 @@ edit the emulation and format variables in the script to change these</br>
  * use bash
  * get yasm
  * make sure you have ld (pretty sure you should have it)
- * put the scripts in /usr/bin/
+ * put the scripts in ~/.local/bin
  * ??????
  * installed
 
